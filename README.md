@@ -9,7 +9,7 @@ My work on the project implements text mining techniques to analyze political me
 ## Core Components
 
 ### Primary Analysis
-- **[`src/tfidf_my.py`](src/tfidf.py)** - TF-IDF analysis system with dual normalization approaches (manual entity mapping and spaCy NER), custom stop word filtering, and political leaning-based analysis
+- **[`src/tfidf.py`](src/tfidf.py)** - TF-IDF analysis system with dual normalization approaches (manual entity mapping and spaCy NER), custom stop word filtering, and political leaning-based analysis
 
 ### Data Processing Utilities
 - **[`tools/add_publisher_leaning.py`](tools/add_publisher_leaning.py)** - Maps news publishers to political bias categories using a locally-developed publisher leaning dictionary
