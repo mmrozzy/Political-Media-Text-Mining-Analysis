@@ -4,7 +4,13 @@ This repository contains my personal contributions to a group project analyzing 
 
 ## Project Overview
 
-My work on the project implements text mining techniques to analyze political media coverage, featuring TF-IDF analysis with custom entity normalization, political bias detection, and category-based content analysis. The codebase demonstrates proficiency in data preprocessing, natural language processing, and quantitative media analysis.
+My work on the project implements text mining techniques to analyze political media coverage, featuring TF-IDF analysis with custom entity normalization, political bias detection, and category-based content analysis. 
+
+**Key Technologies & Libraries:**
+- **Data Processing**: pandas, numpy for dataset manipulation and numerical operations
+- **NLP & Text Mining**: scikit-learn (TF-IDF vectorization), spaCy (Named Entity Recognition), regex patterns
+- **Visualization**: matplotlib, seaborn for statistical plots and data visualization
+- **Analysis Techniques**: TF-IDF statistical modeling, entity normalization, political bias classification
 
 ## Core Components
 
