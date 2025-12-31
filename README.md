@@ -4,7 +4,7 @@ This repository contains my personal contributions to a group project analyzing 
 
 ## Project Overview
 
-This project implements text mining techniques to analyze political media coverage, featuring TF-IDF analysis with custom entity normalization, political bias detection, and category-based content analysis. The codebase demonstrates proficiency in data preprocessing, natural language processing, and quantitative media analysis.
+My work on the project implements text mining techniques to analyze political media coverage, featuring TF-IDF analysis with custom entity normalization, political bias detection, and category-based content analysis. The codebase demonstrates proficiency in data preprocessing, natural language processing, and quantitative media analysis.
 
 ## Core Components
 
@@ -16,10 +16,17 @@ This project implements text mining techniques to analyze political media covera
 - **[`tools/separate_by_category.py`](tools/separate_by_category.py)** - Segments dataset into category-specific CSV files for targeted analysis
 - **[`tools/update_categories.py`](tools/update_categories.py)** - Standardizes category naming conventions across datasets
 
+## Results
+
+The TF-IDF analysis generates visualizations showing keyword prominence across different categories and political leanings:
+
+![TF-IDF Analysis Results](Visualizations/tfidf_visualization_manual.png)
+
+*Figure: TF-IDF keyword analysis results showing top terms by category and political leaning comparison. The visualization demonstrates clear thematic differences across content categories.*
+
 ## Implementation
 
 ### TF-IDF Analysis System (`src/tfidf_my.py`)
-
 
 **Text Normalization Strategies:**
 - **Entity Mapping Approach**: Manual entity normalization using regex patterns for consistent entity representation

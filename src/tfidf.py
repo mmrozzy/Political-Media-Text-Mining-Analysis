@@ -385,7 +385,7 @@ def create_visualizations(results, use_ner=False):
     
     filename = os.path.join(viz_folder, f'tfidf_visualization_{method_suffix}.png')
     
-    plt.suptitle('Top 10 TF-IDF Terms per Coverage Category', fontsize=16, fontweight='bold')
+    plt.suptitle('TF-IDF Analysis: Media Coverage of Gavin Newsom (21.10.2025-25.11.2025)', fontsize=16, fontweight='bold')
     plt.tight_layout()
     plt.savefig(filename, dpi=300, bbox_inches='tight')
     #plt.show()
