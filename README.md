@@ -54,7 +54,7 @@ My work on the project implements text mining techniques to analyze political me
 
 **500 articles analyzed** across 8 categories with clear political bias patterns:
 
-![TF-IDF Analysis Results](visualizations/tfidf_visualization_manual.png)
+![TF-IDF Analysis Results](Visualizations/tfidf_visualization_manual.png)
 
 **Top Findings**:
 - **Trump** dominates coverage across all political leanings
