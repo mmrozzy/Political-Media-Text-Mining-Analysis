@@ -1,6 +1,6 @@
 # Political Media Coverage Analysis
 
-NLP analysis framework for studying political media coverage through TF-IDF analysis and bias detection. This repository contains my contributions to a group project analyzing California Governor Gavin Newsom's media coverage across North American news outlets (Oct-Nov 2025).
+Text mining analysis studying political media coverage through TF-IDF analysis and bias detection. This repository contains my contributions to a group project analyzing California Governor Gavin Newsom's media coverage across North American news outlets (Oct-Nov 2025).
 
 ## Quick Start
 
